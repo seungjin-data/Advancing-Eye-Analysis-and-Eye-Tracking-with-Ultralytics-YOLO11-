@@ -1,0 +1,13 @@
+train: F:/iris-and-pupil.v1-eye-analysis.yolov12/train/images
+val: F:/iris-and-pupil.v1-eye-analysis.yolov12/valid/images
+test: F:/siris-and-pupil.v1-eye-analysis.yolov12/test/images
+
+nc: 2
+names: ['iris', 'pupil']
+
+roboflow:
+  workspace: basketball-vmhkc
+  project: iris-and-pupil
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/basketball-vmhkc/iris-and-pupil/dataset/1
