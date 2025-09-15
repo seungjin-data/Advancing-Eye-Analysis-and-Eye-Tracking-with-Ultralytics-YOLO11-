@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Advancing Eye Analysis and Eye-Tracking with Ultralytics YOLO11 and EMME"
+authors:
+  - family-names: Kim
+    given-names: Seung Jin
+  - family-names: Kim
+    given-names: Myung Joo
+version: "v1.0.1"
+doi: "10.5281/zenodo.17120643"
+date-released: "2025-09-15"
+repository-code: "https://github.com/seungjin-data/Advancing-Eye-Analysis-and-Eye-Tracking-with-Ultralytics-YOLO11-"
+keywords:
+  - eye-tracking
+  - iris segmentation
+  - Ultralytics YOLO11
+  - computer vision
+  - HCI
+license: "MIT"   
