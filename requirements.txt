@@ -1,0 +1,15 @@
+# Core (compatibility-pinned)
+ultralytics~=8.3
+torch~=2.3
+torchvision~=0.18
+opencv-python~=4.9
+numpy~=1.26
+pandas~=2.2
+matplotlib~=3.8
+pyyaml~=6.0
+tqdm~=4.66
+
+# Optional (enable if you use them)
+scipy~=1.13
+onnx~=1.16
+onnxruntime~=1.18
